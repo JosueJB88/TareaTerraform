@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "digitalocean" {
-  token = "dop_v1_9892238ca496d5bc54615c423ae0c8b64a0433a134fce8fa536fd072818bcedd"
+  token = "dop_v1_3498c2ef794d81ddaf1ba9b2d6d46a6905c2f6588755422d670c9d0ac9144fd9"
 }
 
 data "digitalocean_ssh_key" "josue" {
