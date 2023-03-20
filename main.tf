@@ -12,7 +12,7 @@ provider "digitalocean" {
 }
 
 data "digitalocean_ssh_key" "josue" {
-  name= "jb"
+  name= "jb8"
   #public_key = file("~/.ssh/id_rsa.pub")
 }
 
